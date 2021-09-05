@@ -1,0 +1,28 @@
+.App {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.genresbtn {
+  cursor: pointer;
+  background: beige;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+}
+
+body {
+  background-color: beige;
+  font-family: sans-serif;
+}
+
+.songs {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+}
